@@ -3,7 +3,7 @@
 <head>
 <title>План колонізації Марсу</title>
   <style type="text/css">
-h2 {
+h1, h2 {
 color: blue;
 font-weight: bold;
 text-align: center;
