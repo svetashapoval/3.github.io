@@ -8,6 +8,15 @@ color: blue;
 font-weight: bold;
 text-align: center;
 } 
+    .past {
+    color: green;
+    }
+     .present {
+    color: blue;
+    }
+     .future {
+    color: red;
+    }
   </style>
 </head>
 <body style="background-color: lightgray;">
@@ -18,10 +27,10 @@ text-align: center;
   </p>
 <h2>План</h2>
 <ol style="font-family: Arial;font-size: 17px;">
-  <li><span style="color:green;">2018</span>:Побудувати допоміжну базу для запусків в Бока Чіка</li>
-<li><span style="color:blue;">2019</span>: Дебют ракети Falcon Big</li>
-<li><span style="color:red;">2020-2021</span>: Тестові запуски BFR і вивід її на орбіту</li>
-<li><span style="color:red;">2022</span>: Запуск двох місій до Марсу з вантажем, але без команди</li>
+<li><span class="past">2018</span>:Побудувати допоміжну базу для запусків в Бока Чіка</li>
+<li><span class="present">2019</span>: Дебют ракети Falcon Big</li>
+<li><span class="future">2020-2021</span>: Тестові запуски BFR і вивід її на орбіту</li>
+<li><span class="future">2022</span>: Запуск двох місій до Марсу з вантажем, але без команди</li>
 </ol>
 
 <h2>Фото</h2>
